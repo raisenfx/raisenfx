@@ -37,10 +37,11 @@
 
 <div align="justify">
 
-I'm a student of `Computer Engineering` at the İzmir University of Economics.  
-My journey in tech started with FiveM scripting and grew into full-stack & front-end development.  
-I focus on building fast, minimal and aesthetic web solutions.  
-Currently passionate about `React`, `Node.js`, and `Next.js` ecosystems.
+I'm a student of ```Computer Engineering at the İzmir University of Economics```.
+My journey in technology started with a passion for creating immersive experiences. I began writing small scripts in ```FiveM```, which eventually sparked a deeper interest in programming and development.
+Over time, I developed a strong eye for both functionality and design — striving to build digital experiences that are not only efficient but also visually engaging.
+
+While I explore the full-stack ecosystem, my true passion lies in ```Front-End Development```, where I combine logic with visual creativity. I believe great code should be both elegant and maintainable.
 
 </div>
 
@@ -52,11 +53,11 @@ Currently passionate about `React`, `Node.js`, and `Next.js` ecosystems.
 <!-- A Little More About Me -->
 ### ✔️ A Little More About Me
 
-- 🔺 I grow stronger through complex challenges  
-- 🧠 Learning advanced React & performance tuning  
-- 👨‍🏫 I love mentoring new devs & sharing knowledge  
-- ⚡ Fast, lightweight & maintainable code is the goal  
-- 🎯 Design philosophy: “Less is more, with impact”
+- I grow stronger through complex challenges  
+- Learning advanced React & performance tuning  
+- I love mentoring new devs & sharing knowledge  
+- Fast, lightweight & maintainable code is the goal  
+- Design philosophy: “Less is more, with impact”
 
 ---
 
