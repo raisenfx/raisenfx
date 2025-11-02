@@ -40,17 +40,16 @@
 <img src="https://media.tenor.com/Gh3LKX9HMFkAAAAj/hollow-knight-knight.gif" width=330 align="left">
 <div align="center">
 
-**⚔️ Who Am I?**
+**Who Am I?**
 </div>
 
 <div align="justify">
 
-I'm a student of `Computer Engineering` at the `İzmir University of Economics`.  
-My journey in technology started with a passion for creating immersive experiences. I began programming and quickly developed a keen eye for both functionality and aesthetics.  
-As the founder of `FivemAze Freeroam`, I've combined my technical skills with creative vision to build engaging digital environments.
+I'm a student of Computer Engineering at the İzmir University of Economics.
+My journey in technology started with a passion for creating immersive experiences. I began writing small scripts in FiveM, which eventually sparked a deeper interest in programming and development.
+Over time, I developed a strong eye for both functionality and design — striving to build digital experiences that are not only efficient but also visually engaging.
 
-My expertise spans across full-stack development, but my true passion lies in `Front-End Development` where I can merge technical precision with visual artistry.  
-I believe in writing code that's not just functional, but elegant and maintainable.
+While I explore the full-stack ecosystem, my true passion lies in Front-End Development, where I combine logic with visual creativity. I believe great code should be both elegant and maintainable.
 
 </div>
 <br/>
@@ -65,11 +64,11 @@ I believe in writing code that's not just functional, but elegant and maintainab
   <img src="https://raw.githubusercontent.com/raisenfx/raisenfx/main/assets/icons/katana-red.svg" width=20>
 </h3>
 
-🔴 I thrive when challenged by complex problems and innovative projects.<br/>
-⚫ Currently mastering advanced React patterns and performance optimization.<br/>
-🔴 Always open to mentoring aspiring developers in Front-End technologies.<br/>
-⚫ Passionate about creating tools that enhance developer productivity.<br/>
-🔴 Minimalist design philosophy with maximum impact approach.
+- I grow stronger through complex challenges and bold ideas.<br/>
+- Currently diving deep into advanced React patterns and performance tuning.<br/>
+- I enjoy mentoring new developers and sharing what I've learned.<br/>
+- I focus on building fast, minimal, and practical tools.<br/>
+- Driven by a “less is more” design philosophy with maximum impact.
 ㅤ
 
 <!-- Social Links -->
@@ -80,12 +79,8 @@ I believe in writing code that's not just functional, but elegant and maintainab
   <a href="https://github.com/raisenfx" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" />
   </a> 
-  <a href="#" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" />
-  </a>
 </div>
 
-</div>
 <br/>
 
 <!-- GitHub Status -->
@@ -128,52 +123,9 @@ I believe in writing code that's not just functional, but elegant and maintainab
 <br/>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,java,cs" /><br/>
-    <img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind,nextjs,vite" /><br/>
-    <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,postman,git,github" /><br/>
-    <img src="https://skillicons.dev/icons?i=figma,ai,ps,vscode,visualstudio,discord" /><br/>
-    <img src="https://skillicons.dev/icons?i=unity,arduino,electron" /><br/>
+    <img src="https://skillicons.dev/icons?i=html,css,js,java,nodejs,python,lua" />
 </div>
 
-<br/>
-
-<!-- My Best Repositories -->
-<div align="center">
-
-<h3>
- <img src="https://raw.githubusercontent.com/raisenfx/raisenfx/main/assets/icons/bookmark-red.svg" width="15px">
- My Best Repositories
- <img src="https://raw.githubusercontent.com/raisenfx/raisenfx/main/assets/icons/bookmark-red.svg" width="15px">
-</h3><br/>
-
-<div style="display: flex; justify-content: center; gap: 10px;">
-    <a href="https://github.com/raisenfx/FivemAze-Freeroam">
-        <img width=395 src="https://github-readme-stats.vercel.app/api/pin/?username=raisenfx&repo=FivemAze-Freeroam&theme=dark&title_color=FF1E1E&icon_color=FF1E1E&text_color=FFFFFF&bg_color=000000&border_color=FF1E1E" />
-    </a>
-    <a href="https://github.com/raisenfx/React-Performance-Toolkit">
-        <img width=395 src="https://github-readme-stats.vercel.app/api/pin/?username=raisenfx&repo=React-Performance-Toolkit&theme=dark&title_color=FF1E1E&icon_color=FF1E1E&text_color=FFFFFF&bg_color=000000&border_color=FF1E1E" />
-    </a>
-</div>
-
-<div align="center">
-  <div style="display: flex; justify-content: center; gap: 10px;">
-    <a href="https://github.com/raisenfx/Neon-UI-Components">
-        <img width=395 src="https://github-readme-stats.vercel.app/api/pin/?username=raisenfx&repo=Neon-UI-Components&theme=dark&title_color=FF1E1E&icon_color=FF1E1E&text_color=FFFFFF&bg_color=000000&border_color=FF1E1E" />
-    </a>
-    <a href="https://github.com/raisenfx/Code-Optimizer">
-        <img width=395 src="https://github-readme-stats.vercel.app/api/pin/?username=raisenfx&repo=Code-Optimizer&theme=dark&title_color=FF1E1E&icon_color=FF1E1E&text_color=FFFFFF&bg_color=000000&border_color=FF1E1E" />
-    </a>
-</div>
-
-<div align="center">
-  <div style="display: flex; justify-content: center; gap: 10px;">
-    <a href="https://github.com/raisenfx/Automation-Scripts">
-        <img width=395 src="https://github-readme-stats.vercel.app/api/pin/?username=raisenfx&repo=Automation-Scripts&theme=dark&title_color=FF1E1E&icon_color=FF1E1E&text_color=FFFFFF&bg_color=000000&border_color=FF1E1E" />
-    </a>
-    <a href="https://github.com/raisenfx/Developer-Toolkit">
-        <img width=395 src="https://github-readme-stats.vercel.app/api/pin/?username=raisenfx&repo=Developer-Toolkit&theme=dark&title_color=FF1E1E&icon_color=FF1E1E&text_color=FFFFFF&bg_color=000000&border_color=FF1E1E" />
-    </a>
-</div>
 <br/>
 
 <p align="center">
