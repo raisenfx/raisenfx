@@ -3,6 +3,12 @@
   <img src="https://raw.githubusercontent.com/raisenfx/raisenfx/main/assets/banner.png" alt="Raisen Banner" style="width:100%; height:auto"/>
 </a>
 
+<!-- Spotify Song -->
+<div align="center" style="margin-top: 20px;">
+  🎧 <a href="https://open.spotify.com/intl-tr/track/7ytrEtJNzhMEhoBp5Thmvr?si=f417dc728e744ef0" target="_blank" style="color:#1DB954; text-decoration:none; font-weight:bold;">
+  Currently listening on Spotify
+  </a>
+</div>
 
 <hr style="border: none; border-top: 1px solid rgba(255,255,255,0.15); margin: 40px 0;" />
 
@@ -29,7 +35,7 @@ While I explore the full-stack ecosystem, my true passion lies in `Front-End Dev
 <img src="https://i.pinimg.com/originals/10/27/f8/1027f80aeabcbb74a2e698be71829e9e.gif" width="270" align="right">
 
 <!-- A Little More About Me -->
-<h3 align="left" style="opacity:0.7;">✔️ ### A Little More About Me</h3>
+<h3 align="left" style="opacity:0.7;">✔️ A Little More About Me</h3>
 
 ```I grow stronger through complex challenges``` 
 ```Learning advanced React & performance tuning```
