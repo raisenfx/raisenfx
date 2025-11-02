@@ -182,17 +182,3 @@ I believe in writing code that's not just functional, but elegant and maintainab
     width="100%" 
   />
 </p>
-
-<style>
-  /* Neon red hover animation for all links */
-  a:hover {
-    text-shadow: 0 0 10px #ff1e1e, 0 0 25px #ff1e1e;
-    transition: 0.2s ease-in-out;
-  }
-  
-  /* Custom styling for better visual hierarchy */
-  h3 {
-    color: #FF1E1E;
-    text-shadow: 0 0 10px #ff1e1e;
-  }
-</style>
