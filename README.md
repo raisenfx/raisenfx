@@ -47,7 +47,7 @@ While I explore the full-stack ecosystem, my true passion lies in Front-End Deve
 <br/>
 
 <!-- A Little More About Me -->
-### 🥷 A Little More About Me
+###  ✔️ A Little More About Me
 
 - I grow stronger through complex challenges and bold ideas.  
 - Currently diving deep into advanced React patterns and performance tuning.  
