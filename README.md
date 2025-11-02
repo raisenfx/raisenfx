@@ -94,7 +94,7 @@ While I explore the full-stack ecosystem, my true passion lies in ```Front-End D
 
 <!-- Tech Stack -->
 <h3 align="center">
-  <img src="assets/stack-white.svg" width=10 />
+  <img src="assets/stack-white.svg" width=15 />
    My Tech Stack 
 </h3>
 
