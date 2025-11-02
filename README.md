@@ -7,13 +7,13 @@
     GitHub: https://github.com/Glauedson
 -->
 
-<!-- Banner  -->
+<!-- Banner -->
 <a href="https://github.com/raisenfx">
   <img src="https://raw.githubusercontent.com/raisenfx/raisenfx/main/assets/banner.png" alt="Raisen Banner" style="width:100%; height:auto"/>
 </a>
 
 <!-- views/stars/followers -->
-</br>
+<br/>
 <div align="center">
 <a href="https://github.com/raisenfx">
   <img width="180px" 
@@ -35,7 +35,7 @@
 </a>
 </div>
 
-</br>
+<br/>
 
 <img src="https://media.tenor.com/Gh3LKX9HMFkAAAAj/hollow-knight-knight.gif" width=330 align="left">
 <div align="center">
@@ -53,27 +53,27 @@ My expertise spans across full-stack development, but my true passion lies in `F
 I believe in writing code that's not just functional, but elegant and maintainable.
 
 </div>
-</br>
+<br/>
 
-<!-- Gif  -->
-<img align="right" alt="samurai-code" width="300" src="https://i.pinimg.com/originals/10/27/f8/1027f80aeabcbb74a2e698be71829e9e.gif"></br>
+<!-- Gif -->
+<img align="right" alt="samurai-code" width="300" src="https://i.pinimg.com/originals/10/27/f8/1027f80aeabcbb74a2e698be71829e9e.gif"><br/>
 
 <!-- A Little More About Me -->
- <h3 align="center">
+<h3 align="center">
   <img src="https://raw.githubusercontent.com/raisenfx/raisenfx/main/assets/icons/katana-red.svg" width=20>
   A Little More About Me 
   <img src="https://raw.githubusercontent.com/raisenfx/raisenfx/main/assets/icons/katana-red.svg" width=20>
- </h3>
+</h3>
 
- 🔴 I thrive when challenged by complex problems and innovative projects.</br>
- ⚫ Currently mastering advanced React patterns and performance optimization.</br>
- 🔴 Always open to mentoring aspiring developers in Front-End technologies.</br>
- ⚫ Passionate about creating tools that enhance developer productivity.</br>
- 🔴 Minimalist design philosophy with maximum impact approach.
- ㅤ
-  <!-- spotify and more --> 
-  <div align="center"> 
+🔴 I thrive when challenged by complex problems and innovative projects.<br/>
+⚫ Currently mastering advanced React patterns and performance optimization.<br/>
+🔴 Always open to mentoring aspiring developers in Front-End technologies.<br/>
+⚫ Passionate about creating tools that enhance developer productivity.<br/>
+🔴 Minimalist design philosophy with maximum impact approach.
+ㅤ
 
+<!-- Social Links -->
+<div align="center"> 
   <a href="https://discord.com/users/ichbinraisen" target="_blank">
     <img src="https://skillicons.dev/icons?i=discord" />
   </a>
@@ -83,42 +83,42 @@ I believe in writing code that's not just functional, but elegant and maintainab
   <a href="#" target="_blank">
     <img src="https://skillicons.dev/icons?i=twitter" />
   </a>
-
-  </div>
+</div>
 
 </div>
-</br>
+<br/>
 
-<!-- github status-->
+<!-- GitHub Status -->
 <h3 align="center">
 <img src="https://raw.githubusercontent.com/raisenfx/raisenfx/main/assets/icons/github-red.svg" width=20>
  GitHub Status 
 <img src="https://raw.githubusercontent.com/raisenfx/raisenfx/main/assets/icons/github-red.svg" width=20>
 </h3>
-<br>
+<br/>
 
 <!-- Status -->
 <div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=raisenfx&theme=dark&hide_border=true&locale=eng&mode=weekly&background=000000&border=FF1E1E&stroke=FF1E1E&ring=FF1E1E&fire=FF1E1E&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF1E1E&sideLabels=FFFFFF&dates=FFFFFF)](https://git.io/streak-stats)
+
 </div>
 
-<!-- Academic Training-->
+<!-- Academic Training -->
 <h3 align="center">
 <img src="https://raw.githubusercontent.com/raisenfx/raisenfx/main/assets/icons/graduation-red.svg" width=25>
  Academic Training
 <img src="https://raw.githubusercontent.com/raisenfx/raisenfx/main/assets/icons/graduation-red.svg" width=25>
 </h3>
-<br>
+<br/>
 
-<!-- Academic Badge-->
+<!-- Academic Badge -->
 <div align="center">
 
 [![badge](https://github-readme-educational-badge.vercel.app/en/badge?name=İzmir%20University%20of%20Economics&course=Computer%20Engineering&degree=Bachelor&progress=75%25&img=https://raw.githubusercontent.com/raisenfx/raisenfx/main/assets/uni-logo.png)](https://github.com/raisenfx/github-readme-educational-badge)
-<div>
+
+</div>
 
 <!-- My Tech Stack -->
-
 <h3 align="center">
  <img src="https://raw.githubusercontent.com/raisenfx/raisenfx/main/assets/icons/stack-red.svg" width=20>
  My Tech Stack
@@ -128,11 +128,11 @@ I believe in writing code that's not just functional, but elegant and maintainab
 <br/>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,java,cs" /><br>
-    <img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind,nextjs,vite" /><br>
-    <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,postman,git,github" /><br>
-    <img src="https://skillicons.dev/icons?i=figma,ai,ps,vscode,visualstudio,discord" /><br>
-    <img src="https://skillicons.dev/icons?i=unity,arduino,electron" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,java,cs" /><br/>
+    <img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind,nextjs,vite" /><br/>
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,postman,git,github" /><br/>
+    <img src="https://skillicons.dev/icons?i=figma,ai,ps,vscode,visualstudio,discord" /><br/>
+    <img src="https://skillicons.dev/icons?i=unity,arduino,electron" /><br/>
 </div>
 
 <br/>
@@ -140,13 +140,13 @@ I believe in writing code that's not just functional, but elegant and maintainab
 <!-- My Best Repositories -->
 <div align="center">
 
-  <h3>
-   <img src="https://raw.githubusercontent.com/raisenfx/raisenfx/main/assets/icons/bookmark-red.svg" width="15px">
-   My Best Repositories
-   <img src="https://raw.githubusercontent.com/raisenfx/raisenfx/main/assets/icons/bookmark-red.svg" width="15px">
-  </h3></br>
+<h3>
+ <img src="https://raw.githubusercontent.com/raisenfx/raisenfx/main/assets/icons/bookmark-red.svg" width="15px">
+ My Best Repositories
+ <img src="https://raw.githubusercontent.com/raisenfx/raisenfx/main/assets/icons/bookmark-red.svg" width="15px">
+</h3><br/>
 
-  <div style="display: flex; justify-content: center; gap: 10px;">
+<div style="display: flex; justify-content: center; gap: 10px;">
     <a href="https://github.com/raisenfx/FivemAze-Freeroam">
         <img width=395 src="https://github-readme-stats.vercel.app/api/pin/?username=raisenfx&repo=FivemAze-Freeroam&theme=dark&title_color=FF1E1E&icon_color=FF1E1E&text_color=FFFFFF&bg_color=000000&border_color=FF1E1E" />
     </a>
@@ -174,7 +174,7 @@ I believe in writing code that's not just functional, but elegant and maintainab
         <img width=395 src="https://github-readme-stats.vercel.app/api/pin/?username=raisenfx&repo=Developer-Toolkit&theme=dark&title_color=FF1E1E&icon_color=FF1E1E&text_color=FFFFFF&bg_color=000000&border_color=FF1E1E" />
     </a>
 </div>
-</br>
+<br/>
 
 <p align="center">
   <img 
