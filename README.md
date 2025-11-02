@@ -7,57 +7,56 @@
 <br/>
 <div align="center">
   <a href="https://github.com/raisenfx">
-    <img width="180px" 
+    <img width="175px" 
          src="https://komarev.com/ghpvc/?username=raisenfx&label=PROFILE%20VIEWS&color=FF1E1E&style=for-the-badge" 
-         alt="Profile Views"
-         title="Total profile views"/>
+         alt="Profile Views" />
   </a>
   <a href="https://api.github-star-counter.workers.dev/user/raisenfx">
-    <img width="115px" 
+    <img width="110px" 
          alt="stars" 
-         title="Total stars" 
          src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=FF1E1E&labelColor=000000&logoColor=FF1E1E&label=STARS&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/raisenfx" />
   </a>
   <a href="https://github.com/raisenfx?tab=followers">
-    <img width="150px" 
+    <img width="145px" 
          alt="followers" 
-         title="GitHub followers" 
          src="https://custom-icon-badges.herokuapp.com/github/followers/raisenfx?color=FF1E1E&labelColor=000000&style=for-the-badge&logo=person-add&label=FOLLOWERS&logoColor=FF1E1E" />
   </a>
 </div>
 
-<br/>
+---
 
 <!-- Hollow Knight & Who Am I -->
-<img src="https://media.tenor.com/Gh3LKX9HMFkAAAAj/hollow-knight-knight.gif" width="280" align="left">
+<img src="https://media.tenor.com/Gh3LKX9HMFkAAAAj/hollow-knight-knight.gif" width="250" align="left">
 <div align="center">
-  
+
 ### **Who Am I?**
 </div>
 
 <div align="justify">
 
-I'm a student of ```Computer Engineering at the İzmir University of Economics```.
-My journey in technology started with a passion for creating immersive experiences. I began writing small scripts in ```FiveM```, which eventually sparked a deeper interest in programming and development.
+I'm a student of `Computer Engineering at the İzmir University of Economics`.  
+My journey in technology started with a passion for creating immersive experiences. I began writing small scripts in `FiveM`, which eventually sparked a deeper interest in programming and development.  
 Over time, I developed a strong eye for both functionality and design — striving to build digital experiences that are not only efficient but also visually engaging.
 
-While I explore the full-stack ecosystem, my true passion lies in ```Front-End Development```, where I combine logic with visual creativity. I believe great code should be both elegant and maintainable.
+While I explore the full-stack ecosystem, my true passion lies in `Front-End Development`, where I combine logic with visual creativity. I believe great code should be both elegant and maintainable.
 
 </div>
 
-<br/><br/>
+<br clear="left"/>
 
 <!-- Samurai Code GIF -->
-<img src="https://i.pinimg.com/originals/10/27/f8/1027f80aeabcbb74a2e698be71829e9e.gif" width="300" align="right">
+<img src="https://i.pinimg.com/originals/10/27/f8/1027f80aeabcbb74a2e698be71829e9e.gif" width="270" align="right">
 
 <!-- A Little More About Me -->
-### ✔️ A Little More About Me
+<h3 align="left" style="opacity:0.7;">✔️ A Little More About Me</h3>
 
 - I grow stronger through complex challenges  
 - Learning advanced React & performance tuning  
 - I love mentoring new devs & sharing knowledge  
 - Fast, lightweight & maintainable code is the goal  
 - Design philosophy: “Less is more, with impact”
+
+<br clear="right"/>
 
 ---
 
@@ -74,8 +73,8 @@ While I explore the full-stack ecosystem, my true passion lies in ```Front-End D
 ---
 
 <!-- GitHub Status -->
-<h3 align="center">
-  <img src="assets/github-white.svg" width=20 />
+<h3 align="center" style="opacity:0.8;">
+  <img src="assets/github-white.svg" width="20" />
    GitHub Status 
 </h3>
 
@@ -86,8 +85,8 @@ While I explore the full-stack ecosystem, my true passion lies in ```Front-End D
 ---
 
 <!-- Tech Stack -->
-<h3 align="center">
-  <img src="assets/stack-white.svg" width=15 />
+<h3 align="center" style="opacity:0.8;">
+  <img src="assets/stack-white.svg" width="15" />
    My Tech Stack 
 </h3>
 
