@@ -53,17 +53,6 @@ While I explore the full-stack ecosystem, my true passion lies in `Front-End Dev
 
 <hr style="border: none; border-top: 1px solid rgba(255,255,255,0.15); margin: 40px 0;" />
 
-<!-- GitHub Status -->
-<h3 align="center" style="opacity:0.8;">
-  <img src="assets/github-white.svg" width="20" />
-   GitHub Status 
-</h3>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=raisenfx&theme=dark&hide_border=true&locale=eng&mode=weekly&background=000000&border=FF1E1E&stroke=FF1E1E&ring=FF1E1E&fire=FF1E1E&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF1E1E&sideLabels=FFFFFF&dates=FFFFFF" />
-</div>
-
-<hr style="border: none; border-top: 1px solid rgba(255,255,255,0.15); margin: 40px 0;" />
 
 <!-- Tech Stack -->
 <h3 align="center" style="opacity:0.8;">
