@@ -29,13 +29,13 @@ While I explore the full-stack ecosystem, my true passion lies in `Front-End Dev
 <img src="https://i.pinimg.com/originals/10/27/f8/1027f80aeabcbb74a2e698be71829e9e.gif" width="270" align="right">
 
 <!-- A Little More About Me -->
-<h3 align="left" style="opacity:0.7;">✔️ A Little More About Me</h3>
+<h3 align="left" style="opacity:0.7;">✔️ ### A Little More About Me</h3>
 
-- I grow stronger through complex challenges  
-- Learning advanced React & performance tuning  
-- I love mentoring new devs & sharing knowledge  
-- Fast, lightweight & maintainable code is the goal  
-- Design philosophy: “Less is more, with impact”
+```- I grow stronger through complex challenges``` 
+```- Learning advanced React & performance tuning  ```
+```- I love mentoring new devs & sharing knowledge ``` 
+```- Fast, lightweight & maintainable code is the goal  ```
+```- Design philosophy: “Less is more, with impact”```
 
 <br clear="right"/>
 
