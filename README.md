@@ -3,11 +3,10 @@
   <img src="https://raw.githubusercontent.com/raisenfx/raisenfx/main/assets/banner.png" alt="Raisen Banner" style="width:100%; height:auto"/>
 </a>
 
-<!-- Spotify Dynamic Card -->
+<!-- Spotify Song -->
 <div align="center" style="margin-top: 20px;">
-  <a href="https://open.spotify.com/user/1204781509102411846" target="_blank">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=1204781509102411846&cover_image=true&theme=novatorem&bar_color=ff1e1e&bar_color_cover=true" 
-         alt="Spotify Now Playing" width="460" style="border-radius: 12px;" />
+  🎧 <a href="https://open.spotify.com/intl-tr/track/7ytrEtJNzhMEhoBp5Thmvr?si=f417dc728e744ef0" target="_blank" style="color:#1DB954; text-decoration:none; font-weight:bold;">
+ N
   </a>
 </div>
 
