@@ -1,4 +1,3 @@
-<!-- 🌑 RAISENFX - Neon Red Samurai Edition -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/raisenfx/raisenfx/main/assets/banner.png" width="100%" alt="Raisen Banner" />
 </div>
@@ -19,8 +18,7 @@
 <i>“Perfection isn't the goal — it's the baseline.”</i>  
 <br>
 
-🩶 Full-stack Developer & Founder of **FivemAze Freeroam**  
-⚔️ Computer Engineering @ İzmir University of Economics  
+🩶 **Full-stack Developer** & Founder of **FivemAze Freeroam** ⚔️ Computer Engineering @ İzmir University of Economics  
 🧠 Focused on next-gen tools, immersive web & automation  
 🔥 Code is my art, precision is my instinct.  
 
@@ -65,5 +63,5 @@
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&pause=1500&color=FF1E1E&center=true&vCenter=true&width=500&lines=Designed+%26+Written+With+⚡+by+RaisenFX" alt="Footer"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&pause=1500&color=FF1E1E&center=true&vCenter=true&width=500&lines=⚡+Crafted+by+%5BRAISENFX%5D+%7C+Code+Is+My+Edge.+" alt="Footer"/>
 </div>
