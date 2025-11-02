@@ -3,25 +3,6 @@
   <img src="https://raw.githubusercontent.com/raisenfx/raisenfx/main/assets/banner.png" alt="Raisen Banner" style="width:100%; height:auto"/>
 </a>
 
-<!-- Stats: Views / Stars / Followers -->
-<br/>
-<div align="center">
-  <a href="https://github.com/raisenfx">
-    <img width="175px" 
-         src="https://komarev.com/ghpvc/?username=raisenfx&label=PROFILE%20VIEWS&color=FF1E1E&style=for-the-badge" 
-         alt="Profile Views" />
-  </a>
-  <a href="https://api.github-star-counter.workers.dev/user/raisenfx">
-    <img width="110px" 
-         alt="stars" 
-         src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=FF1E1E&labelColor=000000&logoColor=FF1E1E&label=STARS&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/raisenfx" />
-  </a>
-  <a href="https://github.com/raisenfx?tab=followers">
-    <img width="145px" 
-         alt="followers" 
-         src="https://custom-icon-badges.herokuapp.com/github/followers/raisenfx?color=FF1E1E&labelColor=000000&style=for-the-badge&logo=person-add&label=FOLLOWERS&logoColor=FF1E1E" />
-  </a>
-</div>
 
 <hr style="border: none; border-top: 1px solid rgba(255,255,255,0.15); margin: 40px 0;" />
 
