@@ -96,7 +96,6 @@ While I explore the full-stack ecosystem, my true passion lies in Front-End Deve
 <h3 align="center">
   <img src="assets/stack-white.svg" width=20 />
    My Tech Stack 
-  <img src="assets/stack-white.svg" width=20 />
 </h3>
 
 <div align="center">
