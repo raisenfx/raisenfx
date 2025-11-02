@@ -41,19 +41,6 @@ While I explore the full-stack ecosystem, my true passion lies in `Front-End Dev
 
 <hr style="border: none; border-top: 1px solid rgba(255,255,255,0.15); margin: 40px 0;" />
 
-<!-- Social Links -->
-<div align="center"> 
-  <a href="https://discord.com/users/ichbinraisen" target="_blank">
-    <img src="https://skillicons.dev/icons?i=discord" />
-  </a>
-  <a href="https://github.com/raisenfx" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a> 
-</div>
-
-<hr style="border: none; border-top: 1px solid rgba(255,255,255,0.15); margin: 40px 0;" />
-
-
 <!-- Tech Stack -->
 <h3 align="center" style="opacity:0.8;">
   <img src="assets/stack-white.svg" width="15" />
@@ -62,6 +49,15 @@ While I explore the full-stack ecosystem, my true passion lies in `Front-End Dev
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,java,nodejs,python,lua" />
+</div>
+
+<div align="center"> 
+  <a href="https://discord.com/users/ichbinraisen" target="_blank">
+    <img src="https://skillicons.dev/icons?i=discord" />
+  </a>
+  <a href="https://github.com/raisenfx" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a> 
 </div>
 
 <hr style="border: none; border-top: 1px solid rgba(255,255,255,0.15); margin: 40px 0;" />
