@@ -3,7 +3,7 @@
   <img src="https://raw.githubusercontent.com/raisenfx/raisenfx/main/assets/banner.png" alt="Raisen Banner" style="width:100%; height:auto"/>
 </a>
 
-<!-- views/stars/followers -->
+<!-- Stats: Views / Stars / Followers -->
 <br/>
 <div align="center">
   <a href="https://github.com/raisenfx">
@@ -28,32 +28,37 @@
 
 <br/>
 
-<img src="https://media.tenor.com/Gh3LKX9HMFkAAAAj/hollow-knight-knight.gif" width=330 align="left">
+<!-- Hollow Knight & Who Am I -->
+<img src="https://media.tenor.com/Gh3LKX9HMFkAAAAj/hollow-knight-knight.gif" width="280" align="left">
 <div align="center">
-
-**Who Am I?**
+  
+### **Who Am I?**
 </div>
 
 <div align="justify">
 
-I'm a student of ```Computer Engineering at the İzmir University of Economics```.
-My journey in technology started with a passion for creating immersive experiences. I began writing small scripts in ```FiveM```, which eventually sparked a deeper interest in programming and development.
-Over time, I developed a strong eye for both functionality and design — striving to build digital experiences that are not only efficient but also visually engaging.
-
-While I explore the full-stack ecosystem, my true passion lies in ```Front-End Development```, where I combine logic with visual creativity. I believe great code should be both elegant and maintainable.
+I'm a student of `Computer Engineering` at the İzmir University of Economics.  
+My journey in tech started with FiveM scripting and grew into full-stack & front-end development.  
+I focus on building fast, minimal and aesthetic web solutions.  
+Currently passionate about `React`, `Node.js`, and `Next.js` ecosystems.
 
 </div>
 
-<br/>
+<br/><br/>
+
+<!-- Samurai Code GIF -->
+<img src="https://i.pinimg.com/originals/10/27/f8/1027f80aeabcbb74a2e698be71829e9e.gif" width="300" align="right">
 
 <!-- A Little More About Me -->
-###  ✔️ A Little More About Me
+### ✔️ A Little More About Me
 
-- I grow stronger through complex challenges and bold ideas.  
-- Currently diving deep into advanced React patterns and performance tuning.  
-- I enjoy mentoring new developers and sharing what I've learned.  
-- I focus on building fast, minimal, and practical tools.  
-- Driven by a “less is more” design philosophy with maximum impact.  
+- 🔺 I grow stronger through complex challenges  
+- 🧠 Learning advanced React & performance tuning  
+- 👨‍🏫 I love mentoring new devs & sharing knowledge  
+- ⚡ Fast, lightweight & maintainable code is the goal  
+- 🎯 Design philosophy: “Less is more, with impact”
+
+---
 
 <!-- Social Links -->
 <div align="center"> 
@@ -65,32 +70,19 @@ While I explore the full-stack ecosystem, my true passion lies in ```Front-End D
   </a> 
 </div>
 
-<br/>
+---
 
 <!-- GitHub Status -->
 <h3 align="center">
   <img src="assets/github-white.svg" width=20 />
    GitHub Status 
 </h3>
-<br/>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=raisenfx&theme=dark&hide_border=true&locale=eng&mode=weekly&background=000000&border=FF1E1E&stroke=FF1E1E&ring=FF1E1E&fire=FF1E1E&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF1E1E&sideLabels=FFFFFF&dates=FFFFFF" />
 </div>
 
-<br/>
-
-<!-- Academic Training -->
-<h3 align="center">
-  <img src="assets/graduation-white.svg" width=20 />
-   Academic Training 
-</h3>
-
-<div align="center">
-  Computer Engineering - İzmir University of Economics (50%)
-</div>
-
-<br/>
+---
 
 <!-- Tech Stack -->
 <h3 align="center">
@@ -102,7 +94,7 @@ While I explore the full-stack ecosystem, my true passion lies in ```Front-End D
   <img src="https://skillicons.dev/icons?i=html,css,js,java,nodejs,python,lua" />
 </div>
 
-<br/>
+---
 
 <!-- Footer -->
 <p align="center">
