@@ -1,78 +1,76 @@
-<!-- 🟥 RAISENFX - Neon Samurai GitHub README -->
-<!-- Banner -->
+<!--
+    README redesigned for RaisenFX
+    Based on Glauedson's layout – with permission & gratitude
+    GitHub: https://github.com/raisenfx
+-->
+
+<!-- 🌑 Banner -->
+<a href="#">
+  <img src="https://raw.githubusercontent.com/raisenfx/raisenfx/main/assets/banner.png" alt="Raisen Banner" style="width:100%; height:auto" />
+</a>
+
+<!-- Views / Discord / Profile -->
+</br>
 <div align="center">
-  <!-- 🖼️ Banner buraya eklenecek -->
-  <!-- Örnek: <img src="https://raw.githubusercontent.com/raisenfx/raisenfx/main/assets/banner.png" width="100%" alt="Raisen Banner" /> -->
+  <img width="190px" src="https://komarev.com/ghpvc/?username=raisenfx&label=PROFILE%20VIEWS&color=FF1E1E&style=for-the-badge" alt="views" />
+  <img width="130px" src="https://custom-icon-badges.herokuapp.com/github/followers/raisenfx?color=FF1E1E&labelColor=000000&style=for-the-badge&logo=person-add&label=Followers&logoColor=ffffff" />
+  <img width="210px" src="https://img.shields.io/badge/Discord-ICHBINRAISEN-%23FF1E1E?style=for-the-badge&logo=discord&logoColor=white" />
 </div>
 
-<!-- Ana Başlık -->
+---
+
+<!-- Intro + Typing -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=FF1E1E&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Raisen.;I'm+just+a+developer.;Turning+code+into+art+since+day+one." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF1E1E&center=true&vCenter=true&width=480&lines=Hey%2C+I'm+Raisen.;I+code+like+art.;Red+glow+is+my+signature." alt="Typing SVG" />
 </h1>
 
-<!-- Profil Görüntüleyici -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=raisenfx&label=PROFILE%20VIEWS&color=FF1E1E&style=for-the-badge" alt="Profile Views" />
-</p>
-
----
-
-## 🩸 About Me  
 <div align="center">
-
-<i>“Perfection isn't my goal — it’s my standard.”</i>  
-<br><br>
-🖤 Full-stack Developer & Founder of **FivemAze Freeroam**  
-⚔️ Computer Engineering @ İzmir University of Economics  
-💻 Focused on modern web, Discord bots & automation  
-🔥 Code is my canvas — and precision is my brush.  
-
+  <i>"I don't just code, I design experiences."</i><br>
+  ⚔️ Full-stack Developer & Founder of <b>FivemAze</b> <br>
+  🧠 Engineering Student @ IEU · Obsessed with web animation & automation<br>
+  🔴 Building immersive UI panels & Discord bots<br>
+  ⚡ Embracing the glow – one red line at a time
 </div>
 
 ---
 
-## ⚙️ Favorite Tools  
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,java,vscode,discord&theme=dark" height="55"/>
-</div>
-
----
-
-## ⚡ GitHub Stats  
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=raisenfx&show_icons=true&bg_color=00000000&title_color=FF1E1E&text_color=EAEAEA&icon_color=FF1E1E&hide_border=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=raisenfx&theme=tokyonight&hide_border=true&ring=FF1E1E&fire=FF1E1E&currStreakLabel=FF1E1E" height="165"/>
-</div>
-
----
-
-## 🌐 Connect With Me  
-<div align="center">
-  <a href="https://discord.com/users/ichbinraisen">
-    <img src="https://img.shields.io/badge/Discord-ICHBINRAISEN-%23FF1E1E?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-  </a>
-  <br><br>
-  <sub>📋 Copy Username: <b>ichbinraisen</b></sub>
-</div>
-
----
-
-## 🧠 Philosophy  
+<!-- Tools -->
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&duration=3500&pause=1000&color=FF1E1E&center=true&vCenter=true&width=420&lines=My+Code+Speaks+For+Me.;Discipline+%7C+Focus+%7C+Precision.;No+Excuses.+Just+Execution." alt="Code Speaks"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,java,vscode,discord&theme=dark" height="35" />
 </h3>
 
 ---
 
-<!-- Motivasyon Alanı -->
+<!-- Motivation image (customizable) -->
 <p align="center">
-  <!-- 🖼️ Motivation fotoğrafını buraya ekleyeceksin -->
-  <!-- Örnek: <img src="https://raw.githubusercontent.com/raisenfx/raisenfx/main/assets/motivation.png" width="680px" alt="Motivation"/> -->
+  <img src="https://raw.githubusercontent.com/raisenfx/raisenfx/main/assets/motivation.png" width="700" alt="Motivation" />
 </p>
 
 ---
 
-<!-- Footer / İmza -->
+<!-- GitHub Stats -->
+<h3 align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=raisenfx&show_icons=true&bg_color=00000000&title_color=FF1E1E&text_color=EAEAEA&icon_color=FF1E1E&hide_border=true" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=raisenfx&theme=tokyonight&hide_border=true&ring=FF1E1E&fire=FF1E1E&currStreakLabel=FF1E1E" height="170" />
+</h3>
+
+---
+
+<!-- Footer Message -->
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&duration=3000&pause=1000&color=FF1E1E&center=true&vCenter=true&width=430&lines=My+Code+Speaks+For+Me." alt="code speaks" />
+</h2>
+
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&pause=2000&color=FF1E1E&center=true&vCenter=true&width=600&lines=⚡+Designed+and+Crafted+by+RaisenFX+%7C+2025" alt="Footer"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&pause=1200&color=FF1E1E&center=true&vCenter=true&width=420&lines=Designed+%26+Written+With+%E2%9A%A1+by+RaisenFX" alt="footer" />
 </div>
+
+---
+
+<!-- End Capsule -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF1E1E&height=80&section=footer" width="100%" />
+</p>
+
+<!-- Style Reminder -->
+<!-- GitHub strips out <style> so animation done via typing SVG instead -->
