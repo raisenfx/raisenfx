@@ -71,7 +71,6 @@ While I explore the full-stack ecosystem, my true passion lies in Front-End Deve
 <h3 align="center">
   <img src="assets/github-white.svg" width=20 />
    GitHub Status 
-  <img src="assets/github-white.svg" width=20 />
 </h3>
 <br/>
 
@@ -85,11 +84,10 @@ While I explore the full-stack ecosystem, my true passion lies in Front-End Deve
 <h3 align="center">
   <img src="assets/graduation-white.svg" width=20 />
    Academic Training 
-  <img src="assets/graduation-white.svg" width=20 />
 </h3>
 
 <div align="center">
-  Computer Engineering - İzmir University of Economics (75%)
+  Computer Engineering - İzmir University of Economics (50%)
 </div>
 
 <br/>
