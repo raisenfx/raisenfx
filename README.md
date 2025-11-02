@@ -3,10 +3,10 @@
   <img src="https://raw.githubusercontent.com/raisenfx/raisenfx/main/assets/banner.png" alt="Raisen Banner" style="width:100%; height:auto"/>
 </a>
 
-<!-- Spotify Song -->
+<!-- Spotify Section -->
 <div align="center" style="margin-top: 20px;">
-  🎧 <a href="https://open.spotify.com/intl-tr/track/7ytrEtJNzhMEhoBp5Thmvr?si=f417dc728e744ef0" target="_blank" style="color:#1DB954; text-decoration:none; font-weight:bold;">
-  Currently listening on Spotify
+  <a href="https://open.spotify.com/intl-tr/track/7ytrEtJNzhMEhoBp5Thmvr?si=f417dc728e744ef0" target="_blank">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=ichbinraisen&cover_image=true&theme=novatorem&bar_color=ff1e1e&bar_color_cover=true" alt="Spotify Now Playing" width="460" />
   </a>
 </div>
 
@@ -37,11 +37,11 @@ While I explore the full-stack ecosystem, my true passion lies in `Front-End Dev
 <!-- A Little More About Me -->
 <h3 align="left" style="opacity:0.7;">✔️ A Little More About Me</h3>
 
-- I grow stronger through complex challenges
-- Learning advanced React & performance tuning
-- I love mentoring new devs & sharing knowledge 
-- Fast, lightweight & maintainable code is the goal
-- Design philosophy: “Less is more, with impact”
+```I grow stronger through complex challenges```  
+```Learning advanced React & performance tuning```  
+```I love mentoring new devs & sharing knowledge```  
+```Fast, lightweight & maintainable code is the goal```  
+```Design philosophy: “Less is more, with impact”```  
 
 <br clear="right"/>
 
