@@ -36,11 +36,11 @@
 
 <div align="justify">
 
-I'm a student of Computer Engineering at the İzmir University of Economics.
-My journey in technology started with a passion for creating immersive experiences. I began writing small scripts in FiveM, which eventually sparked a deeper interest in programming and development.
+I'm a student of ```Computer Engineering at the İzmir University of Economics```.
+My journey in technology started with a passion for creating immersive experiences. I began writing small scripts in ```FiveM```, which eventually sparked a deeper interest in programming and development.
 Over time, I developed a strong eye for both functionality and design — striving to build digital experiences that are not only efficient but also visually engaging.
 
-While I explore the full-stack ecosystem, my true passion lies in Front-End Development, where I combine logic with visual creativity. I believe great code should be both elegant and maintainable.
+While I explore the full-stack ecosystem, my true passion lies in ```Front-End Development```, where I combine logic with visual creativity. I believe great code should be both elegant and maintainable.
 
 </div>
 
