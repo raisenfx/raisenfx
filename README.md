@@ -16,7 +16,7 @@
 ## 🩸 About Me  
 <div align="center">
   <p>
-    <i>“Perfection isn’t the goal — it’s the baseline.”</i><br><br>
+    <i>“Perfection isn't the goal — it's the baseline.”</i><br><br>
     🩶 Full-stack Developer & Founder of <b>FivemAze Freeroam</b><br>
     ⚔️ Computer Engineering @ İzmir University of Economics<br>
     🧠 Focused on next-gen tools, immersive web & automation<br>
