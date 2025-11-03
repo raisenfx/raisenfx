@@ -50,7 +50,7 @@ I believe great code should be both elegant and maintainable.
      align="right" 
      style="border-radius:12px; margin-left:20px; box-shadow:0 0 25px rgba(255,30,30,0.2);"/>
 
-<h3 align="left" style="opacity:0.7; font-family:'Poppins',sans-serif;"> <img src="https://raw.githubusercontent.com/raisenfx/raisenfx/main/assets/github-white.svg" width="18" /> A Little More About Me</h3>
+<h3 align="left" style="opacity:0.7; font-family:'Poppins',sans-serif;"> <img src="https://raw.githubusercontent.com/raisenfx/raisenfx/main/assets/github-white.svg" width="15" />  A Little More About Me</h3>
 <ul style="font-family:'Inter',sans-serif; color:#cbd5e1; line-height:1.8;">
   <li>I grow stronger through complex challenges</li>
   <li>Learning advanced React & performance tuning</li>
