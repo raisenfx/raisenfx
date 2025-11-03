@@ -6,7 +6,7 @@
 <!-- Spotify Song -->
 <div align="center" style="margin-top: 20px;">
   🎧 <a href="https://open.spotify.com/intl-tr/track/7ytrEtJNzhMEhoBp5Thmvr?si=f417dc728e744ef0" target="_blank" style="color:#1DB954; text-decoration:none; font-weight:bold;">
- Azərbaycan
+ 𝔑
   </a>
 </div>
 
