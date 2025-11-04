@@ -68,6 +68,14 @@ I believe great code should be both elegant and maintainable.
 <hr style="border:none; border-top:1px solid rgba(255,255,255,0.15); margin:40px 0;" />
 
 <!-- ⚙️ Tech Stack -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/raisenfx/raisenfx/main/assets/ragnar.gif"
+       width="220"
+       align="left"
+       style="border-radius:15px; margin-right:20px; box-shadow:0 0 20px rgba(255,255,255,0.1);" />
+</div>
+
+
 <h3 align="center" style="opacity:0.85; font-family:'Poppins',sans-serif;">
   <img src="https://raw.githubusercontent.com/raisenfx/raisenfx/main/assets/stack-white.svg" width="18" />
    My Tech Stack 
