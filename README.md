@@ -8,19 +8,6 @@
          style="width:100%; border-radius:12px; box-shadow:0 0 25px rgba(255,30,30,0.25);" />
   </a>
 
-  <!-- 🎧 Spotify Static Song -->
-  <div style="margin-top:25px;">
-    🎧
-    <a href="https://open.spotify.com/intl-tr/track/7ytrEtJNzhMEhoBp5Thmvr?si=f417dc728e744ef0"
-       target="_blank"
-       style="color:#1DB954; font-weight:bold; text-decoration:none; transition:0.3s;">
-      <span style="font-family:'Inter',sans-serif; letter-spacing:1px;">𝔑</span>
-    </a>
-  </div>
-</div>
-
-<hr style="border:none; border-top:1px solid rgba(255,255,255,0.15); margin:40px 0;" />
-
 <!-- 👤 Who Am I -->
 <div align="center">
   <img src="https://media.tenor.com/Gh3LKX9HMFkAAAAj/hollow-knight-knight.gif"
