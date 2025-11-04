@@ -93,3 +93,9 @@ style="border-radius:12px; margin-left:20px; box-shadow:0 0 25px rgba(255,30,30,
 </p>
 
 
+<p align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=312yrpz6ir6avmmq6ddzhykr3im4&cover_image=true&theme=novatorem&bar_color=ff1e1e&bar_color_cover=false" 
+       alt="Spotify Now Playing" 
+       width="420" 
+       style="border-radius:12px; box-shadow:0 0 15px rgba(255,30,30,0.3);" />
+</p>
