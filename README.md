@@ -92,29 +92,8 @@ Crafted with precision 🥷🏿 — <b>RaisenFX</b>
 </span>
 </p>
 
-<!-- RAISEN SIGNATURE -->
-<div align="center" style="margin-top:60px; margin-bottom:20px;">
-  <p style="
-    font-family:'Poppins',sans-serif;
-    font-size:26px;
-    font-weight:600;
-    color:#ef4444;
-    letter-spacing:2px;
-    text-shadow:0 0 10px #ef4444, 0 0 20px #ef4444;
-    animation: flicker 2.5s infinite alternate;
-  ">
-    ✦ I’m <span style="color:#fff; text-shadow:0 0 15px #fff;">Raisen</span> ⚡
-  </p>
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&pause=1000&color=FF1E1E&center=true&vCenter=true&width=300&lines=✦+I'm+Raisen+⚡" alt="I'm Raisen"/>
+</p>
 
-<style>
-@keyframes flicker {
-  0%, 18%, 22%, 25%, 53%, 57%, 100% {
-    opacity: 1;
-  }
-  20%, 24%, 55% {
-    opacity: 0.3;
-  }
-}
-</style>
 
