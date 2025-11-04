@@ -69,7 +69,7 @@ I believe great code should be both elegant and maintainable.
 
 <!-- ⚙️ Tech Stack -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/raisenfx/raisenfx/main/assets/ragnar.gif"
+  <img src="https://raw.githubusercontent.com/raisenfx/raisenfx/main/assets/rengar.png"
        width="220"
        align="left"
        style="border-radius:15px; margin-right:20px; box-shadow:0 0 20px rgba(255,255,255,0.1);" />
