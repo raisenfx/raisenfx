@@ -10,13 +10,13 @@
 
 <!-- 🎧 Spotify Now Playing -->
 <br>
-<a href="https://open.spotify.com/user/312yrpz6ir6avmmq6ddzhykr3im4" target="_blank">
-  <img src="https://novatorem.vercel.app/api/spotify"
-       alt="Spotify Now Playing"
+<a href="https://open.spotify.com/user/312yrpz6ir6avmmq6ddzhykr3im4" target="_blank">  
+  <img src="https://raisenfx-spotify.vercel.app/api/spotify"
+       alt="RaisenFX Spotify Now Playing"
        width="450"
        style="border-radius:12px; box-shadow:0 0 20px rgba(255,30,30,0.25); margin-top:15px;" />
 </a>
-</div>
+
 
 <hr style="border:none; border-top:1px solid rgba(255,255,255,0.15); margin:40px 0;" />
 
