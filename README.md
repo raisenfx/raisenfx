@@ -3,7 +3,7 @@
 
 <!-- 🔺 Banner -->
 <a href="https://github.com/raisenfx">
-  <img src="https://raw.githubusercontent.com/raisenfx/raisenfx/main/assets/download (2).gif"
+  <img src="https://raw.githubusercontent.com/raisenfx/raisenfx/main/assets/download (3).gif"
        alt="Raisen Banner"
        style="width:100%; border-radius:12px; box-shadow:0 0 25px rgba(255,30,30,0.25);" />
 </a>
