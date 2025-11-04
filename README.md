@@ -94,8 +94,8 @@ style="border-radius:12px; margin-left:20px; box-shadow:0 0 25px rgba(255,30,30,
 
 
 <p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=312yrpz6ir6avmmq6ddzhykr3im4&cover_image=true&theme=novatorem&bar_color=ff1e1e&bar_color_cover=false" 
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=312yrpz6ir6avmmq6ddzhykr3im4&count=1&unique=true&width=400&theme=dark&border_color=ff1e1e" 
        alt="Spotify Now Playing" 
-       width="420" 
        style="border-radius:12px; box-shadow:0 0 15px rgba(255,30,30,0.3);" />
 </p>
+
