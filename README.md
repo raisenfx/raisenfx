@@ -54,11 +54,11 @@ I believe great code should be both elegant and maintainable.
 </h3>
 
 <ul style="font-family:'Inter',sans-serif; color:#cbd5e1; line-height:1.8;">
-  <li>I grow stronger through complex challenges</li>
-  <li>Learning advanced React & performance tuning</li>
-  <li>I love mentoring new devs & sharing knowledge</li>
-  <li>Fast, lightweight & maintainable code is the goal</li>
-  <li>Design philosophy: “Less is more, with impact”</li>
+  <li>- I grow stronger through complex challenges</li>
+  <li>- Learning advanced React & performance tuning</li>
+  <li>- I love mentoring new devs & sharing knowledge</li>
+  <li>- Fast, lightweight & maintainable code is the goal</li>
+  <li>- Design philosophy: “Less is more, with impact”</li>
 </ul>
 
 <br clear="right"/>
@@ -91,7 +91,4 @@ I believe great code should be both elegant and maintainable.
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=80&section=footer" width="100%" />
 </p>
 
-<!-- ⚡ Raisen Signature -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&pause=1000&color=FF1E1E&center=true&vCenter=true&width=300&lines=✦+I'm+Raisen+⚡" alt="I'm Raisen" />
-</p>
+
