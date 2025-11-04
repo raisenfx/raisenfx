@@ -55,11 +55,11 @@ I believe great code should be both elegant and maintainable.
 </h3>
 
 <div align="left" style="font-family:'Inter',sans-serif; color:#cbd5e1; font-size:15px; line-height:1.6; margin-left:10px;">
-  <p>• I grow stronger through complex challenges</p>
-  <p>• Learning advanced React & performance tuning</p>
-  <p>• I love mentoring new devs & sharing knowledge</p>
-  <p>• Fast, lightweight & maintainable code is the goal</p>
-  <p>• Design philosophy: “Less is more, with impact”</p>
+  <p>- I grow stronger through complex challenges</p>
+  <p>- Learning advanced React & performance tuning</p>
+  <p>- I love mentoring new devs & sharing knowledge</p>
+  <p>- Fast, lightweight & maintainable code is the goal</p>
+  <p>- Design philosophy: “Less is more, with impact”</p>
 </div>
 
 
