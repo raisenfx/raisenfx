@@ -48,18 +48,20 @@ I believe great code should be both elegant and maintainable.
      align="right"
      style="border-radius:12px; margin-left:20px; box-shadow:0 0 25px rgba(255,30,30,0.25);" />
 
+<!-- 🧠 A Little More About Me -->
 <h3 align="left" style="opacity:0.7; font-family:'Poppins',sans-serif;">
   <img src="https://raw.githubusercontent.com/raisenfx/raisenfx/main/assets/github-white.svg" width="15" />
   &nbsp;A Little More About Me
 </h3>
 
-<ul style="font-family:'Inter',sans-serif; color:#cbd5e1; line-height:1.8;">
-  <li>- I grow stronger through complex challenges</li>
-  <li>- Learning advanced React & performance tuning</li>
-  <li>- I love mentoring new devs & sharing knowledge</li>
-  <li>- Fast, lightweight & maintainable code is the goal</li>
-  <li>- Design philosophy: “Less is more, with impact”</li>
-</ul>
+<div align="left" style="font-family:'Inter',sans-serif; color:#cbd5e1; font-size:15px; line-height:1.6; margin-left:10px;">
+  <p>• I grow stronger through complex challenges</p>
+  <p>• Learning advanced React & performance tuning</p>
+  <p>• I love mentoring new devs & sharing knowledge</p>
+  <p>• Fast, lightweight & maintainable code is the goal</p>
+  <p>• Design philosophy: “Less is more, with impact”</p>
+</div>
+
 
 <br clear="right"/>
 
