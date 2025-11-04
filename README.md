@@ -87,10 +87,6 @@ style="border-radius:12px; margin-left:20px; box-shadow:0 0 25px rgba(255,30,30,
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=80&section=footer" width="100%" />
 <br>
-<span style="color:#9ca3af; font-family:'Inter',sans-serif; font-size:13px;">
-Crafted with precision 🥷🏿 — <b>RaisenFX</b>
-</span>
-</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&pause=1000&color=FF1E1E&center=true&vCenter=true&width=300&lines=✦+I'm+Raisen+⚡" alt="I'm Raisen"/>
