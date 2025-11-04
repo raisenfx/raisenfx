@@ -5,7 +5,7 @@
 <a href="https://github.com/raisenfx">
   <img src="https://raw.githubusercontent.com/raisenfx/raisenfx/main/assets/download (3).gif"
        alt="Raisen Banner"
-       tyle="width:100%; max-height:320px; object-fit:cover; border-radius:12px; box-shadow:0 0 25px rgba(255,30,30,0.25);" />
+       style="width:85%; max-height:300px; object-fit:cover; border-radius:12px; box-shadow:0 0 25px rgba(255,30,30,0.25);" />
 </a>
 
 <!-- 🎧 Spotify Now Playing -->
