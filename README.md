@@ -31,13 +31,15 @@
 </div>
 
 <div align="justify" style="font-family:'Inter',sans-serif; line-height:1.7; color:#d1d5db; font-size:15px;">
-I'm a student of <code>Computer Engineering at the İzmir University of Economics</code>.
-My journey in technology started with a passion for creating immersive experiences.
-I began writing small scripts in <code>FiveM</code>, which eventually sparked a deeper interest in programming and development.
-Over time, I developed a strong eye for both functionality and design — striving to build digital experiences that are not only efficient but also visually engaging.
-While I explore the full-stack ecosystem, my true passion lies in <code>Front-End Development</code>,
-where I combine logic with visual creativity.
-I believe great code should be both elegant and maintainable.
+🎓 I'm a student of <code>Computer Engineering</code> at the <code>İzmir University of Economics</code>.  
+My journey in technology began with a passion for creating seamless and engaging digital experiences.  
+Over time, this curiosity evolved into a deep interest in <code>software development</code>, where I’ve developed a keen eye for both functionality and design — striving to build experiences that are not only efficient but also visually compelling.  
+
+While I explore the <code>full-stack ecosystem</code>, my true passion lies in <code>Front-End Development</code>,  
+where I combine logical problem-solving with creative design.  
+I believe that great code should be <code>clean</code>, <code>elegant</code>, and <code>maintainable</code> —  
+a balance between art and logic that brings ideas to life.
+
 </div>
 
 <br clear="left"/>
