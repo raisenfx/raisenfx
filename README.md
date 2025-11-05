@@ -37,8 +37,7 @@ Over time, this curiosity evolved into a deep interest in <code>software develop
 
 While I explore the <code>full-stack ecosystem</code>, my true passion lies in <code>Front-End Development</code>,  
 where I combine logical problem-solving with creative design.  
-I believe that great code should be <code>clean</code>, <code>elegant</code>, and <code>maintainable</code> —  
-a balance between art and logic that brings ideas to life.
+I believe that great code should be clean , elegant and maintainable a balance between art and logic that brings ideas to life. 
 
 </div>
 
