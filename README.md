@@ -31,7 +31,7 @@
 </div>
 
 <div align="justify" style="font-family:'Inter',sans-serif; line-height:1.7; color:#d1d5db; font-size:15px;">
-🎓 I'm a student of <code>Computer Engineering</code> at the <code>İzmir University of Economics</code>.  
+I'm a student of <code>Computer Engineering</code> at the <code>İzmir University of Economics</code>.  
 My journey in technology began with a passion for creating seamless and engaging digital experiences.  
 Over time, this curiosity evolved into a deep interest in <code>software development</code>, where I’ve developed a keen eye for both functionality and design — striving to build experiences that are not only efficient but also visually compelling.  
 
