@@ -3,7 +3,7 @@
 
 <!-- Banner -->
 <a href="https://github.com/raisenfx">
-  <img src="https://raw.githubusercontent.com/raisenfx/raisenfx/main/assets/pinterest – cherrrrybaby ♡.gif"
+  <img src="https://raw.githubusercontent.com/raisenfx/raisenfx/main/assets/rrraisen.gif"
        alt="Raisen Banner"
        style="width:85%; max-height:300px; object-fit:cover; border-radius:12px; box-shadow:0 0 25px rgba(255,30,30,0.25);" />
 </a>
